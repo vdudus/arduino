@@ -1,1 +1,1 @@
-# arduino-way
+# arduino
